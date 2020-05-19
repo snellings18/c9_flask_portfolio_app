@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #000000;
 }
 h1,
 h2,
@@ -57,7 +57,7 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #2C3E50;
+  border-color: #330066;
 }
 hr.star-primary:after {
   background-color: white;
@@ -103,7 +103,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #330066;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -151,7 +151,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-toggle:focus {
   background-color: #18BC9C;
   color: white;
-  border-color: #18BC9C;
+  border-color: #000000;
 }
 @media (min-width: 768px) {
   .navbar-custom {
